@@ -46,12 +46,12 @@
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimal-inc&theme=dark&hide_border=true"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bimal-inc&theme=flag-india&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/right.png">
   </a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bimal-inc&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bimal-inc&theme=flag-india&hide_border=true)](https://git.io/streak-stats) -->
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/bimal-inc/bimal-inc/blob/master/GIF/github.gif"></a>
 <br/>

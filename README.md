@@ -51,6 +51,8 @@
   </a>
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bimal-inc&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
+
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/bimal-inc/bimal-inc/blob/master/GIF/github.gif"></a>
 <br/>
 

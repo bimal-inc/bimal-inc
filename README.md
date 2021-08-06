@@ -103,19 +103,19 @@
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bimal-inc&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bimal-inc&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/bimal-inc/bimal-inc/blob/main/github-contribution-grid-snake.svg)
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/bimal-inc/bimal-inc/blob/main/github-contribution-grid-snake.svg) -->
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<br/>
+<!-- <br/> --> -->
 
 #
 
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+</summary> -->
 
 <!-- <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@bimalinc/b93015a3-090a-4333-82a7-3d7f435e29c5.svg" >
@@ -125,7 +125,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue) -->
 
 <!-- **🐱 My Github Data** 
 
@@ -162,7 +162,7 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 ``` -->
 
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On**  -->
 
 <!-- ```text
 ⌚︎ Time Zone: Asia/kathmandu
@@ -206,21 +206,21 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2021
+ <!-- Last Updated on 05/08/2021 -->
 <!--END_SECTION:waka-->
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@bimal-inc/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
   </a>
   <a>
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@bimal-inc/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
   </a>
-</p>
+</p> -->
 
 #
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/bimal-inc">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
@@ -232,7 +232,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
     <img width="75%" src="https://github.com/bimal-inc/bimal-inc/blob/master/metrics.svg"/>
     <img src="https://github.com/bimal-inc/bimal-inc/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
-</p>
+</p> -->
 
 <h1>
   Connect With Me
@@ -282,7 +282,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
 <br/>
 <br/>
 
-<p align="center">
+<p  align="center">
   <a href="https://archiveprogram.github.com/">
     <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/bimal-inc/bimal-inc/blob/master/GIF/arctic.gif" width="100px" height="100px">
   </a>

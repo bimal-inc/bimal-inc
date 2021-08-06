@@ -43,15 +43,13 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bimal-inc&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/bimal-inc)
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimal-inc&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/right.png">
   </a>
-</p>
-
-#
+</p> -->
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/bimal-inc/bimal-inc/blob/master/GIF/github.gif"></a>
 <br/>

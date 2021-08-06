@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bimal-inc&label=Profile%20views&color=0e75b6&style=flat" alt="bimal-inc" /> </p> •  
+  <img src="https://komarev.com/ghpvc/?username=bimal-inc&label=Profile%20views&color=0e75b6&style=flat" alt="bimal-inc" /> </p> 
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=bimal-inc&style=flat&color=brightgreen"> •    -->
   <!-- <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/bimal-inc?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/bimal-inc?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
@@ -40,7 +40,7 @@
 </p> -->
 
  #
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/bimal-inc/bimal-inc/blob/master/GIF/github.gif"></a>
+
 
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bimal-inc&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/bimal-inc)

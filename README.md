@@ -246,7 +246,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
   <a href="https://www.linkedin.com/in/bimal-yadav-7b72a81a0/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/bimal-inc/bimal-inc/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+  <a href="https://www.facebook.com/bimalemail7/" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/bimal-inc/bimal-inc/blob/master/SVG/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/bimal.inc/" target="_blank">

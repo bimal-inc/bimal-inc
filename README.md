@@ -42,7 +42,12 @@
  #
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bimal-inc&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/bimal-inc)
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=bimal-inc&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+
+<div align="center">
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bimal-inc&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/bimal-inc)
+
+</div>
 
 
 
@@ -113,9 +118,9 @@
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 <!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/bimal-inc/bimal-inc/blob/main/github-contribution-grid-snake.svg) -->
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<!-- <br/> --> -->
+<!-- <br/> -->
 
-#
+
 
 <!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -126,7 +131,7 @@
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@bimalinc/b93015a3-090a-4333-82a7-3d7f435e29c5.svg" >
 </a> -->
 
-<br>
+
 <br>
 
 <!--START_SECTION:waka-->

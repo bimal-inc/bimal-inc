@@ -54,7 +54,7 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/left.png">
+    <img height="120" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/left.png">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bimal-inc&theme=flag-india&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/right.png">
   </a>

@@ -54,9 +54,9 @@
 
 <p align="center">
   <a>
-    <img height="120" width="120" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/left.png">
+    <img height="120" width="150" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/left.png">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bimal-inc&theme=flag-india&hide_border=true"/>
-    <img height="120" width="120" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/right.png">
+    <img height="120" width="150" src="https://github.com/bimal-inc/bimal-inc/blob/master/PNG/right.png">
   </a>
 </p>
 
